@@ -31,7 +31,7 @@
            
            if(!empty($data)) {
                     $itemCnt++;
-                    $topgenre = '<a href="'.URL.'game/'.$data['gameid'].'"><img class="img_border" src="'.imgSrc($data['foldername'],"_80x80").'"/>';
+                    $topgenre = '<a href="'.URL.'play/'.$data['gameid'].'"><img class="img_border" src="'.imgSrc($data['foldername'],"_80x80").'"/>';
                     $topgenre .='<br/><b><small>'.$data['gamename'].'</a></small></b>';
                     $topgenre .='<br/>'.$data['shortdesc'];
                     $page = str_ireplace('{$topgenre'.$itemCnt.'}', $topgenre, $page);
