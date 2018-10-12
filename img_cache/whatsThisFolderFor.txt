@@ -1,0 +1,6 @@
+THIS IS A FUTURE FEATURE TO BE ADDED AT A LATER DATE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+In order to prevent constant pulls from bfg,
+this folder will hold all images ever pulled from this site.
+the engine will check here first, if image does not exist, it will
+pull it from BFG and save it here.

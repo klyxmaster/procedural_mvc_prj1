@@ -1,0 +1,81 @@
+1;Action & Arcade;Shoot, run, and jump through challenging levels as you play free Action & Arcade Games. 
+2;Jigsaw Games;Enjoy classic jigsaw puzzles with no missing pieces as you play free Jigsaw Puzzle Games. 
+3;Mahjong Games;Pair up exotic mahjong tiles in unique layouts as you play free Mahjong Games. 
+4;Puzzle Games;Piece together puzzles and reveal interesting solutions as you play free Puzzle Games. 
+5;Card & Board Games;Enjoy solitaire, slingo, slots, bingo, dominos, and more as you play free Card & Board Games. 
+6;Word Games;Enjoy word search, jumbles, spelling, and crosswords as you play free Word Games. 
+11;Casino Games;Join the fun and strike it rich as you play free Casino Games. Free Slots, Bingo, Blackjack, Roulette, Poker, and more! Play them for free or try before you buy.
+14;2007 Customer Favorites;Play your way through the most popular games of 2007 free. 
+15;Hidden Object Games;Hunt for hidden objects, crack mysteries, and solve puzzles as you play free Hidden Object Games. 
+17;Match 3 Games;Swap and match colorful items to get 3 in a row as you play free Match 3 Games. 
+18;Marble Popper Games;Shoot marbles, match 3, and create chain reactions as you play free Marble Popper Games. 
+19;Brain Teaser Games;Exercise your brain with riddles and puzzles as you play free Brain Teaser Games. 
+20;Large File Games;Go on epic adventures with intense graphics and stories as you play free Large File Games. 
+21;Adventure Games;Explore exotic places, unravel mysteries, and solve puzzles as you play free Adventure Games. 
+22;Brick Buster Games;Break out of the ordinary and ricochet to a win as you play free Brick Buster Games. 
+23;Platformer Games;Run, jump, and fly from platform to platform as you play free Platform Games and Platformer Games. 
+24;Shooter Games;Load your weapon and take aim at sneaky enemies as you play free Shooter Games. 
+25;Time Management Games;Manage time and money, run a business, and achieve goals as you play free Time Management Games. 
+26;Family Games;Games adults can buy and the whole family can play free and enjoy. 
+27;Mystery Games;Become the detective and scour crime scenes for incriminating evidence as you play free Mystery Games. 
+29;Strategy Games;Pick a strategy, test your skill at planning, and build your empire as you play free Strategy Games. 
+31;3D Games;Get in-your-face action in another dimension as you play free 3D Games. 
+32;Animal Games;Raise animals, build a farm, or adopt virtual pets as you play free Animal Games. 
+33;Baking Games;Bake up some delicious treats like cakes and cookies as you play free Baking Games. 
+35;Book Games;Lose yourself in great stories as you play free Book Games adapted from famous books. 
+37;Breakout Games;Smash through bricks and break out of the ordinary as you play free Breakout Games. 
+38;Building Games;Build interesting structures and worlds as you play free Building Games. 
+39;Burger Games;Work a restaurant and cook up some tasty grilled meat as you play free Burger Games. 
+43;Chicken Games;Scratch up some fun in the henhouse as you play free Chicken Games. 
+45;Christmas Games;Celebrate the season and get in a holiday mood as you play free Christmas Games. 
+46;Classic Games;Cozy up to familiar names and faces from your arcade days as you play free Classic Games. 
+47;Cooking Games;Become a chef and serve up delicious meals to happy diners as you play free Cooking Games. 
+49;Detective Games;Grab your magnifying glass and decipher mysteries as you play free Detective Games. 
+54;Dress Up Games;Show off your fashion skills as you dress to impress and play free Dress Up Games. 
+55;Educational Games;Improve your learning skills and memory as you play free Educational Games. 
+56;Fairy Games;Venture deep into the enchanted forest as you play free Fairy Games. 
+57;Fantasy Games;Escape from reality into a world of imagination as you play free Fantasy Games. 
+58;Farm Games;Plant, grow, and harvest virtual crops as you play free Farm Games and Farming Games. 
+59;Fashion Games;Dress to impress and show off your style as you play free Fashion Games. 
+61;Food Games;Put on your apron and cook up something delicious as you play free Food Games. 
+63;Garden Games;Tend flowers and vegetables from seed to sprout as you play free Garden Games. 
+64;Holiday Games;Play Christmas Games, Easter Games, Halloween Games, and more! Stay in the spirit all year as you play free Holiday Games. 
+65;Hotel Games;Manage a bustling hotel and attend to your guests as you play free Hotel Games. 
+66;Ice Cream Games;Dish up sweet treats as you play free Ice Cream Games. 
+68;Jewlery Games;Craft beautiful necklaces, earrings, and more as you play free Jewelry Games. 
+69;Magic Games;Open spell books, meet magical characters, and discover new worlds as you play free Magic Games. 
+70;Monster Games;Meet vampires, zombies, ghosts, and other monstrous creatures as you play free Monster Games. 
+73;Pirate Games;Join swashbucklers and buccaneers and sail for treasure as you play free Pirate Games. 
+75;Point & Click Games;Play free Point & Click Games as you quest through amazing adventures and mysterious mazes. 
+76;Poker Games;Play free Poker Games and up the ante with a few hands of chance. 
+78;Quest Games;Seek out epic adventure as you play free Quest Games. 
+81;Restaurant Games;From fancy to fast, grow your food empire as you play free Restaurant Games. 
+82;RPG Games;Assume a new identity and play the role of your favorite alter ego in free RPG Games. 
+83;Seek & Find Games;A keen eye finds even the most carefully hidden objects when you play free Seek & Find Games. 
+84;SIM Games;Try your hand at real-life, real-time scenarios as you play free Sim Games and Simulation Games. 
+85;Solitaire Games;Play free Solitaire Games with many twists on the classic game of solitaire. 
+87;Space Games;Explore the outer edges of the universe when you play free interstellar Space Games. 
+88;Sudoku Games;Use logic and reason to play the classic Japanese puzzle game of Sudoku for free. 
+89;Tower Defense;Use strategy to shield your castle from invading armies as you play free Tower Defense Games. 
+90;Travel Games;Jet-set to exotic countries as you play free Travel Games, with no passport, luggage, or airfare required. 
+91;Treasure Games;X marks the spot! Find buried pirate booty as you play fortune-filled free Treasure Games. 
+94;Tycoon Games;Get rich quick with a virtual enterprise as you play free Tycoon Games. 
+96;Water Games;Swim with sharks, board boats, captain ships, and discover submerged worlds as you play free Water Games. 
+100;Aveyond Games;Fight magical monsters and explore a medieval fantasy world as you play free Aveyond Games. 
+102;Diner Dash Games;Join Flo on her latest adventures as you play free Diner Dash Games. 
+103;Dora The Explorer Games;Kids and adults alike can play with Dora and friends in our collection of Dora the Explorer Games. 
+105;Luxor Games;Use magical powerups, shoot marbles, and match colors as you play free Luxor Games. 
+106;Nancy Drew Games;Be a detective and solve mysteries as Nancy Drew, amateur sleuth, as you play free Nancy Drew Games. 
+108;Ricochet Games;Bounce your way to fun as you play our free Ricochet Games and Brick Buster Games. 
+109;Sherlock Holmes Games;Play as Sherlock Holmes and solve mysteries with Watson in our free Sherlock Holmes Games. 
+111;Slingo Games;Mix up slots, bingo, card games, and more as you play free Slingo Games. 
+112;Sponge Bob Games;Play with SpongeBob, Patrick, and friends at Bikini Bottom as you play free SpongeBob Games. 
+114;Virtual Villagers;Visit beautiful island shores and play with your Virtual Villagers for free, real-time simulation fun. 
+115;Azada Games;Play in a world of puzzles and free Titus from a magical spell as you play free Azada Games.
+116;Hidden Expedition Games;Embark on wild adventures in the darkest jungles and deepest oceans as you play free Hidden Expedition Games. 
+117;Mystery Case Files Games;Search for hidden objects and tackle mind-bending puzzles as you play free Mystery Case Files Games. 
+118;Best PC Games;A collection of the Best PC Games available to download and play. 
+122;CG Station Favorites;Play these free games that played more than once!. 
+139;Collectors Edition;Get the full game, integrated strategy guides, and fun extras. 
+169;Physics Games;Use the laws of physics to your advantage as you solve puzzles with gears, boxes, balls, and other interesting objects. 
+175;Featured Games;The following games are featured today!

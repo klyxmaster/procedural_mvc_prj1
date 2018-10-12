@@ -1,0 +1,191 @@
+body, html{
+    padding:0;
+    margin:0;
+    position:relative;
+    height:100%;
+    font-family: arial, verdana;
+    background-color: #202226;
+    
+}
+.footer {
+    text-align: center;
+    
+}
+.header, .footer{
+    width:100%;
+    background:#ccc;
+    padding:10px;
+    box-sizing:border-box
+}
+.content{
+    background:#eee;
+    width:100%;
+    padding:10px;
+    height:100%;
+    box-sizing:border-box;
+    padding:10px;
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+}
+.left{
+    width:200px;
+    background:#bbb;
+    height:100%;
+    display:table-cell;
+    padding: 10px;    
+}
+
+.right{
+    background:#aaa;
+    height:100%;
+    display:table-cell;
+    width:auto;
+    padding: 5px;    
+}
+
+.title { font-size: 1.5em; font-weight: bold; font-family: arial;}
+.ssmain {width: 400px; height: 200px;}
+
+.buybg {
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    background-color: #4A5765;
+    color: white;
+    font-size: 1.25em;
+    border-radius: 5px;
+}
+
+
+.buytable {
+    position: relative;
+    top: 30px;
+    float: right;
+    background-color: #000;
+    text-align: center;
+    height: 30px;
+    border-radius: 3px;
+}
+
+.price {
+    color: white;
+    
+}
+
+.buybtn {
+    background-color: #597104;
+    border-radius: 3px;
+    border: 2px white solid;
+    width:125px;
+    color: #C5DB74;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.hz_glist {
+    border-radius: 3px;
+    width:100%;
+    background-color: #27404F;
+    font-size: .85em;
+    color: #67C1F5;
+}
+.youtubelink {
+    color:black;
+    text-decoration: underline overline;
+    font-weight: bold;
+    
+}
+
+a {color:#000;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+
+.sidbarList {
+    color: black;
+}
+.genrelist { background-color:#000; color:#67C1F5; padding-left: 2px; padding-right: 2px;}
+.hitgame {
+    height: 100%;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+.genrepagetitle {
+    font-weight: bold;
+    font-size: 1.25em;
+    border: 2px blue solid;
+    border-radius: 5px;
+}
+
+.genrepagedesc {
+      
+    border: 1px #000 solid;
+    border-radius: 5px;
+}
+
+.topgenre {
+    width: 100px;
+}
+
+
+
+
+.menu {
+    width:950px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.menu ul {
+     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.menu li {
+    float: right;    
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    backgroun-color:#111111;
+}
+
+.search_hover: {
+    width: 100%;
+}
+.search_hover tr:hover{
+    background-color: #000 !important;
+    color: Orange;
+    font-weight: bold;
+    cursor: pointer;
+}
+.search_hover tr:hover td {
+    background-color: transparent;
+}
+
+.sidebarlist a:hover {
+    background-color: #000 !important;
+    color: orange;
+    font-weight: bold;
+    cursor: pointer;
+    width:250px;
+}
+
+
+table.genre_x td{
+    width:100px;
+    border: 1px blue solid;
+    border-radius: 3px;
+    text-align: center;
+}
