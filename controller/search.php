@@ -7,11 +7,12 @@
         $haystack       = file(DATABASE_FOLDER.'bfg.db');
         $cnt            = -1;
         foreach($haystack as $row=>$game) {
-            
+           
             $game = unserialize($game);
+            $gamename = strtolower($game['gamename']);
          
-         
-            if( (strpos(strtolower($game['gamename']), $needle) ) || (strpos(strtolower($game['longdesc']),$needle))) {
+            if( strmatch($gamename, $needle) === true ) {
+               
                 $cnt++;
                // Add it to a new array
                $srch[$cnt] = $game;
@@ -22,7 +23,7 @@
          $search_results ="";
         $thispage = file_get_contents('tpl/search.tpl');
          $thispage = str_ireplace('{$searchtxt}',$needle,$thispage);
-        if($cnt < 1) {
+        if(!isset($srch[0]['gameid'])) { // ID's are pretty high, so 5 should be safe check
             $srch[0] = 'No Results Found';
             $thispage = str_ireplace('{$search_results}','<tr><td></td><td>No Results found...</td><td></td></tr>',$thispage);
         } else {
